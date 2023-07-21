@@ -1,11 +1,11 @@
 # Netflix_dashboard_using_Tableau
 
-For this project I have created a Netflix dashboard using **Tableau** containing information about tv shows and movies on Netflix.. The data for this was downloaded from Kaggle and cleaned using SQL. Tableau worksheets were then created to:
+For this project I have created a Netflix dashboard using **Tableau** containing information about tv shows and movies on Netflix. The data for this was downloaded from Kaggle and cleaned using SQL. Tableau worksheets were then created to:
 
 1) Display total number of movies and tv shows by year.
 2) Display number of movies and tv shows by each country.
 3) To find out the top 10 genres and their counts.
-4) Find out percentage and count of movies ass compared to tv shows.
+4) Find out percentage and count of movies as compared to tv shows.
 5) Display count of ratings as a histogram.
 6) Finally a filter was created to display description, date added to Netflix, duration, rating, release year and genre of any movie or tv show selected.
 
