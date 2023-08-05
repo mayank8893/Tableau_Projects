@@ -12,4 +12,5 @@ For this project I have created a **Data Science Salary** dashboard using **Tabl
 The screenshot below shows the dashboard created from these worksheets. Find the dashboard on tableau public with this link: https://public.tableau.com/app/profile/mayank.tripathi3793/viz/DataScienceSalaryDashboard_16900591934480/Dashboard1
 
 
-<img width="1048" alt="Screenshot 2023-07-22 at 4 45 32 PM" src="https://github.com/mayank8893/Data_Science_salary_dashboard_using_tableau/assets/69361645/6328d313-8ed0-4be1-a002-a6dac299d4cf">
+
+<img width="1066" alt="Screenshot 2023-08-05 at 8 52 02 AM" src="https://github.com/mayank8893/Tableau_Projects/assets/69361645/6273e69e-ced6-4d06-9596-1d3662e1ba62">
