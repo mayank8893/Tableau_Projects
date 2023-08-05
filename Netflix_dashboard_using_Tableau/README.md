@@ -12,4 +12,5 @@ For this project I have created a Netflix dashboard using **Tableau** containing
 The screenshot below shows the dashboard created from these worksheets. Find the dashboard on tableau public with this link: https://public.tableau.com/app/profile/mayank.tripathi3793/viz/Netflixdashboard_16899708220470/Netflixdashboard.
 
 
-<img width="1348" alt="Screenshot 2023-07-21 at 4 28 51 PM" src="https://github.com/mayank8893/Netflix_dashboard_using_Tableau/assets/69361645/7280893e-c6f4-464f-acd5-657c2b368db8">
+
+<img width="1375" alt="Screenshot 2023-08-05 at 8 53 08 AM" src="https://github.com/mayank8893/Tableau_Projects/assets/69361645/90b4e39e-7f4f-4714-af0b-d925ac7b86dc">
